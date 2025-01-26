@@ -1,2 +1,11 @@
-"Airline-ticket-booking-system" 
-The Airline Ticket Management System (ATMS) is designed to streamline the process of booking, managing, and tracking airline tickets through an intuitive graphical user interface (GUI) built with Java. This project employs Java Swing for its frontend, offering users a seamless experience when interacting with the system. The backend is powered by MySQL, ensuring efficient data storage and retrieval of flight schedules, passenger details, and ticket transactions. Key features of the ATMS include user registration, flight search, ticket booking, cancellation, and a comprehensive admin panel for managing flights and monitoring transactions. The system incorporates validation mechanisms to ensure data integrity and security
+"Airline-ticket-booking-system"  
+**Airline Ticket Management System (ATMS)** is designed to simplify **booking, managing, and tracking airline tickets** through a user-friendly **Java Swing GUI**. The backend, powered by **MySQL**, ensures efficient handling of **flight schedules**, **passenger details**, and **ticket transactions**.  
+
+Key features include:  
+- **User registration**, **flight search**, **ticket booking**, and **cancellation**.  
+- A robust **admin panel** for managing flights.  
+- Built-in **validation mechanisms** to ensure **data integrity** and **security**.  
+
+This project delivers a seamless experience for both users and administrators.  
+
+<img src="https://github.com/user-attachments/assets/c7cb3acf-0ed0-4629-80fc-eb62769050f6" alt="image" height="300">
